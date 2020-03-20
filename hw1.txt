@@ -1,0 +1,15 @@
+як≥ найпопул€рн≥ш≥ г≥перв≥зори використовуютьс€ дл€ в≥ртуал≥зац≥њ
+≥нфраструктури.
+
+Most popular HW are MS Windows Server and VmWare Esxi 
+
+
+
+
+—тисло опиш≥ть основн≥ в≥дм≥нност≥ найпопул€рн≥ших г≥перв≥зор≥в
+
+
+Esxi Ц monolytiс hypervisor. It should be use proprietary drivers. Besides, it has a commission of performance. About 3-5%
+MS Windows HW is microkernel hypervisor. It has simple partition functionality. No proprietary drivers
+Teacher told me that it has most stability, but I donТt agree because it is Windows!
+
