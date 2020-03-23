@@ -3,3 +3,7 @@
 MS Windows HV is microkernel hypervisor. It has simple partition functionality. No proprietary drivers
 Teacher told me that it has most stability, but I don't agree because it is Windows!
 
+
+
+
+Kysovskiy Dmitiry
