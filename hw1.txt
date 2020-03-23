@@ -17,10 +17,6 @@ Organization for MS Windows Server is the need for licensing for each individual
 There is also no GUI, but there is a remote console
 
 
-≈сли лицензироватьс€, то VMware Ч самое дорогое решение, Hyper-V Ч дешевле (или при использовании Hyper-V Server и виртуальных машин с Linux Ч вообще бесплатное), 
-¬прочем, необходимо учитывать еще и стоимость лицензий программного обеспечени€, которое будет установлено в виртуальных машинах. »менно поэтому Hyper-V значительно дешевле VMware Ч при использовании VMware вам все равно придетс€ покупать лицензии на гостевые ќ—.
-Hyper-V значительно дешевле и производительнее в гиперконвергентных решени€х.
-
 If licensed, then VMware is the most expensive solution, Hyper-V is cheaper (or when using Hyper-V Server and Linux virtual machines itТs generally free),
 However, you must also take into account the cost of software licenses that will be installed in virtual machines. That is why Hyper-V is much cheaper than VMware - when using VMware, you still have to buy licenses for guest OSs.
 Hyper-V is significantly cheaper and more productive in hyper-converged solutions.
