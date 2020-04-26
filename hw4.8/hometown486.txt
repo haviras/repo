@@ -1,0 +1,15 @@
+.bash_history
+.bash_logout
+.bashrc
+.cache
+.config
+.gnupg
+.local
+.profile
+.selected_editor
+.sudo_as_admin_successful
+.viminfo
+hometown.txt
+motd.legal-displayed
+panels.ini
+private-keys-v1.d

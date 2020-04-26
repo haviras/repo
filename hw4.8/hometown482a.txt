@@ -1,0 +1,77 @@
+.:
+total 48
+drwxr-xr-x 6 gobzavr gobzavr 4096 Apr 26 14:23 .
+drwxr-xr-x 5 root    root    4096 Apr 26 00:30 ..
+-rw------- 1 gobzavr gobzavr 2354 Apr 26 14:00 .bash_history
+-rw-r--r-- 1 gobzavr gobzavr  220 Apr  4  2018 .bash_logout
+-rw-r--r-- 1 gobzavr gobzavr 3771 Apr  4  2018 .bashrc
+drwx------ 3 gobzavr gobzavr 4096 Apr 26 00:29 .cache
+drwxrwxrwx 3 gobzavr gobzavr 4096 Apr 26 12:38 .config
+drwx------ 3 gobzavr gobzavr 4096 Mar 24 14:35 .gnupg
+drwxrwxrwx 3 gobzavr gobzavr 4096 Apr 26 00:29 .local
+-rw-r--r-- 1 gobzavr gobzavr  807 Apr  4  2018 .profile
+-rw-r--r-- 1 gobzavr gobzavr   66 Apr 26 12:39 .selected_editor
+-rw-r--r-- 1 gobzavr gobzavr    0 Mar 24 14:36 .sudo_as_admin_successful
+-rw------- 1 gobzavr gobzavr 2176 Apr 26 12:35 .viminfo
+-rw-rw-r-- 1 gobzavr gobzavr    0 Apr 26 14:29 hometown.txt
+
+./.cache:
+total 12
+drwx------ 3 gobzavr gobzavr 4096 Apr 26 00:29 .
+drwxr-xr-x 6 gobzavr gobzavr 4096 Apr 26 14:23 ..
+drwx------ 2 gobzavr gobzavr 4096 Apr 26 14:23 mc
+-rw-r--r-- 1 gobzavr gobzavr    0 Mar 24 14:35 motd.legal-displayed
+
+./.cache/mc:
+total 12
+drwx------ 2 gobzavr gobzavr 4096 Apr 26 14:23 .
+drwx------ 3 gobzavr gobzavr 4096 Apr 26 00:29 ..
+-rw-r--r-- 1 gobzavr gobzavr   35 Apr 26 14:23 Tree
+
+./.config:
+total 12
+drwxrwxrwx 3 gobzavr gobzavr 4096 Apr 26 12:38 .
+drwxr-xr-x 6 gobzavr gobzavr 4096 Apr 26 14:23 ..
+drwx------ 2 gobzavr gobzavr 4096 Apr 26 14:23 mc
+
+./.config/mc:
+total 12
+drwx------ 2 gobzavr gobzavr 4096 Apr 26 14:23 .
+drwxrwxrwx 3 gobzavr gobzavr 4096 Apr 26 12:38 ..
+-rw-r--r-- 1 gobzavr gobzavr 3428 Apr 26 14:23 ini
+-rw-rw-r-- 1 gobzavr gobzavr    0 Apr 26 14:22 panels.ini
+
+./.gnupg:
+total 12
+drwx------ 3 gobzavr gobzavr 4096 Mar 24 14:35 .
+drwxr-xr-x 6 gobzavr gobzavr 4096 Apr 26 14:23 ..
+drwx------ 2 gobzavr gobzavr 4096 Mar 24 14:35 private-keys-v1.d
+
+./.gnupg/private-keys-v1.d:
+total 8
+drwx------ 2 gobzavr gobzavr 4096 Mar 24 14:35 .
+drwx------ 3 gobzavr gobzavr 4096 Mar 24 14:35 ..
+
+./.local:
+total 12
+drwxrwxrwx 3 gobzavr gobzavr 4096 Apr 26 00:29 .
+drwxr-xr-x 6 gobzavr gobzavr 4096 Apr 26 14:23 ..
+drwx------ 4 gobzavr gobzavr 4096 Apr 26 14:22 share
+
+./.local/share:
+total 16
+drwx------ 4 gobzavr gobzavr 4096 Apr 26 14:22 .
+drwxrwxrwx 3 gobzavr gobzavr 4096 Apr 26 00:29 ..
+drwx------ 2 gobzavr gobzavr 4096 Apr 26 14:23 mc
+drwx------ 2 gobzavr gobzavr 4096 Apr 26 14:22 nano
+
+./.local/share/mc:
+total 12
+drwx------ 2 gobzavr gobzavr 4096 Apr 26 14:23 .
+drwx------ 4 gobzavr gobzavr 4096 Apr 26 14:22 ..
+-rw------- 1 gobzavr gobzavr  301 Apr 26 14:23 history
+
+./.local/share/nano:
+total 8
+drwx------ 2 gobzavr gobzavr 4096 Apr 26 14:22 .
+drwx------ 4 gobzavr gobzavr 4096 Apr 26 14:22 ..
