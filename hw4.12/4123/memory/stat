@@ -1,0 +1,17 @@
+Sat May 9 00:35:12
+Mem:           2563         161         932           0        1469        2215
+     1	May  9 00:35:26 ubuntu1804 4123tag: Average value for user load CPU is: 0
+     2	May  9 00:35:26 ubuntu1804 4123tag: Average value for system Load CPU is:
+     3	May  9 00:35:26 ubuntu1804 4123tag: Average value for context switches is:
+     4	May  9 00:35:26 ubuntu1804 4123tag: PageTables:         6840 kB
+     5	May  9 00:35:26 ubuntu1804 4123tag: Filesystem      Size  Used Avail Use% Mounted on
+     6	May  9 00:35:26 ubuntu1804 4123tag: udev            1.3G     0  1.3G   0% /dev
+     7	May  9 00:35:26 ubuntu1804 4123tag: tmpfs           257M 1000K  256M   1% /run
+     8	May  9 00:35:26 ubuntu1804 4123tag: /dev/sda2        16G  5.2G  9.8G  35% /
+     9	May  9 00:35:26 ubuntu1804 4123tag: tmpfs           1.3G     0  1.3G   0% /dev/shm
+    10	May  9 00:35:26 ubuntu1804 4123tag: tmpfs           5.0M     0  5.0M   0% /run/lock
+    11	May  9 00:35:26 ubuntu1804 4123tag: tmpfs           1.3G     0  1.3G   0% /sys/fs/cgroup
+    12	May  9 00:35:26 ubuntu1804 4123tag: /dev/loop0       92M   92M     0 100% /snap/core/8689
+    13	May  9 00:35:26 ubuntu1804 4123tag: /dev/loop1       94M   94M     0 100% /snap/core/9066
+    14	May  9 00:35:26 ubuntu1804 4123tag: /dev/loop2      4.2M  4.2M     0 100% /snap/micro/2027
+    15	May  9 00:35:26 ubuntu1804 4123tag: tmpfs           257M     0  257M   0% /run/user/1000
